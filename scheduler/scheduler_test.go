@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AkihiroSuda/go-dag"
-	"github.com/docker/docker/pkg/testutil/assert"
+	"github.com/ksegun/go-dag"
+	"gotest.tools/v3/assert"
 )
 
 const (
